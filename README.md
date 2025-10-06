@@ -111,12 +111,6 @@ I love solving problems, experimenting with new technologies, and creating impac
 
 ---
 
-## Contribution Activity
-
-[![Karthick's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthick788&theme=tokyo-night&hide_border=true)](https://github.com/karthick788)
-
----
-
 ## Achievements & Certifications
 
 - **1000+ Coding Problems Solved** across LeetCode, HackerRank, and CodeChef
