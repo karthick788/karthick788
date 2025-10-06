@@ -120,7 +120,17 @@ I love solving problems, experimenting with new technologies, and creating impac
 - **Open Source Contributor** - Active in community projects
 
 ---
+## 🐍 Contribution Snake
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhinakaran311/dhinakaran311/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhinakaran311/dhinakaran311/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Karthick788/karthick788/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
 ## Quote
 
 *"The best way to predict the future is to create it."*  
