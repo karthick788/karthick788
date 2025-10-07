@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Karthick+M+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Problem+Solver+%7C+1000%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=100000&color=70A5FD&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Karthick+👋" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Problem+Solver+%7C+1000%2B+Problems+Solved" alt="Typing SVG" />
 </p>
 
 ## About Me
